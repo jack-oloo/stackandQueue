@@ -1,0 +1,10 @@
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.Properties.Resources.resources
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.GenerateResource.Cache
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb
+c:\users\jbolo\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.Form1.resources
